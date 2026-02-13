@@ -22,3 +22,5 @@ y los archivos .css que contengan las clases
 necesarias especificadas en los elementos
 html con el atributo class deberan de estar
 ubicados entre ```<head> y </head>```
+
+https://piezasparawebsite.github.io/status/
